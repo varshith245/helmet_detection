@@ -40,7 +40,7 @@ helmet_detection/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Poornachandra-dh/helmet_detection.git
+git clone https://github.com/varshith245/helmet_detection.git
 cd helmet_detection
 ```
 
