@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Uploads and results (generated at runtime)
+app/uploads/
+app/results/
+
+# Training runs
+runs/
+
+# Light bundles (generated)
+Light_Bundles/
+
+# Model weights (large binary files)
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
